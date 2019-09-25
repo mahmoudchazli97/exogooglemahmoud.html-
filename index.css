@@ -1,0 +1,51 @@
+h1
+{
+	font-size: 24px; /*esse*/ 
+}
+body
+{
+	color: BLACK;
+}
+
+.googleimage
+{
+	display: flex;
+	justify-content: center;
+}
+body
+{
+	text-align: right
+}
+.container 
+{
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle 
+}
+.introdution
+{
+   color: red; 
+}
+img
+{
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
